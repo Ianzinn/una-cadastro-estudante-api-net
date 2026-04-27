@@ -149,3 +149,4 @@
 /Users/ian_santana/Documents/CadastroEstudanteApi/obj/Debug/net10.0/CadastroEstudanteApi.pdb
 /Users/ian_santana/Documents/CadastroEstudanteApi/obj/Debug/net10.0/CadastroEstudanteApi.genruntimeconfig.cache
 /Users/ian_santana/Documents/CadastroEstudanteApi/obj/Debug/net10.0/ref/CadastroEstudanteApi.dll
+/Users/ian_santana/Documents/CadastroEstudanteApi/obj/Debug/net10.0/CadastroEstudanteApi.sourcelink.json

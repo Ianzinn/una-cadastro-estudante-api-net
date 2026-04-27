@@ -1,0 +1,58 @@
+# ------ Visual Studio ------
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ------ Build ------
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+
+# ------ NuGet ------
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+!**/packages/build/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ------ .NET ------
+project.nuget.cache
+*.nuget.props
+*.nuget.targets
+*.ncrunchproject
+
+# ------ Publicação ------
+**/publish/
+**/PublishScripts/
+
+# ------ Testes ------
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.VisualState.xml
+TestResult.xml
+coverage*/
+*.coveragexml
+*.coverage
+
+# ------ Banco de dados SQLite ------
+*.db
+*.db-shm
+*.db-wal
+
+# ------ Arquivos de ambiente ------
+.env
+.env.*
+appsettings.Production.json
+appsettings.Staging.json
+
+# ------ Sistema operacional ------
+.DS_Store
+Thumbs.db
+desktop.ini
